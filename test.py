@@ -37,7 +37,4 @@ dbutils.fs.rm("/foobar/baz.txt")
 
 # COMMAND ----------
 
-print('abc')
-
-# COMMAND ----------
 
