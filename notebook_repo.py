@@ -8,4 +8,8 @@ print(reverse('edoc'))
 
 # COMMAND ----------
 
+# MAGIC %ls
+
+# COMMAND ----------
+
 
